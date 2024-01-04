@@ -1,0 +1,8 @@
+{
+  "name": "com.domain.app.MyAwesomeApp",
+  "description": "My Awesome App",
+  "dependencies": {
+    "@lightningjs/sdk": "^5.3.2",
+    "core-js": "^3.35.0"
+  }
+}
